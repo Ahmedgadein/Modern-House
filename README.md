@@ -78,8 +78,11 @@ Once the HVAC spaces were defined, Revit’s heating and cooling load calculatio
 
 - **Supply Air Flow Rates** – The necessary airflow volume to meet cooling and heating demands efficiently.
 
-
 Comfort metrics such as temperature setpoints and air quality parameters were selected, and the project location was set to the United Arab Emirates to incorporate local weather data, ensuring accurate results.
+
+Loads Report
+
+<img alt="alt_text" width="400px" src="images/loads report.jpg" />
 
 ### 3. Supply Air System Design
 
@@ -91,6 +94,9 @@ With the calculated heating and cooling loads, the next step was designing the s
 
 - To achieve efficient and satisfactory air supply, adjustments were made to keep the *Airflow Delta below 5%*.
 
+First Floor HVAC Spaces Schedule 
+
+<img alt="alt_text" width="400px" src="images/schedule.jpg" />
 
 ### 4. Secondary Supply Air System Design
 
