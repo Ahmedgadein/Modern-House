@@ -50,7 +50,7 @@ Interior
 ## HVAC System Design and Modeling
 
 ### System Selection
-A Variable Air Volume (VAV) System was selected due to its efficiency, flexibility, and ability to enhance thermal comfort. VAV systems provide precise temperature control, improved energy efficiency, and better indoor air quality compared to constant air volume systems.
+A **Variable Air Volume (VAV)** system was selected due to its efficiency, flexibility, and ability to enhance thermal comfort. VAV systems provide precise temperature control, improved energy efficiency, and better indoor air quality compared to constant air volume systems.
 
 #### Steps in HVAC System Design:
 
@@ -77,7 +77,7 @@ With the calculated heating and cooling loads, the next step was designing the s
 
 - Supply air diffusers were strategically placed in each conditioned space to ensure uniform airflow distribution.
 
-- A parameter named *Airflow Delta* was introduced, representing the percentage difference between the actual and required airflow in each space.
+- A parameter named **Airflow Delta** was introduced, representing the percentage difference between the actual and required airflow in each space.
 
 - To achieve efficient and satisfactory air supply, adjustments were made to keep the *Airflow Delta below 5%*.
 
@@ -90,7 +90,7 @@ With the calculated heating and cooling loads, the next step was designing the s
 
 - Duct routing was optimized to minimize friction loss and reduce duct lengths.
 
-- Revit’s duct sizing tool was used to size ducts using the friction method, setting friction losses to 0.4 Pa.
+- Revit’s duct sizing tool was used to size ducts using the friction method, setting friction losses to *0.4 Pa*.
 
 
 ### 5. Primary Supply Air System Design
@@ -99,7 +99,7 @@ With the calculated heating and cooling loads, the next step was designing the s
 
 - The duct routing approach aimed to minimize friction losses and optimize airflow distribution.
 
-- Revit’s duct sizing tool was employed again, but this time using the velocity method, setting airflow velocity to 5 m/s to ensure proper air movement within the system.
+- Revit’s duct sizing tool was employed again, but this time using the velocity method, setting airflow velocity to *5 m/s* to ensure proper air movement within the system.
 
 
 ### 6. AC Unit Placement and System Integration
