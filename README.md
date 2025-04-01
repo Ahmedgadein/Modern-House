@@ -58,6 +58,16 @@ A **Variable Air Volume (VAV)** system was selected due to its efficiency, flexi
 
 Each enclosure within the building, including rooms, corridors, lounges, and shafts, was designated as a distinct HVAC space. This step involved specifying the unique thermal comfort parameters required for each area, such as temperature setpoints, humidity levels, and ventilation requirements.
 
+First Floor
+
+<img alt="alt_text" width="400px" src="images/IMG_20250401_161440.jpg" />
+
+Second Floor
+<img alt="alt_text" width="400px" src="images/IMG_20250401_161244.jpg" />
+
+3D
+<img alt="alt_text" width="400px" src="images/IMG_20250401_161618.jpg" />
+
 ### 2. Heating and Cooling Load Calculations
 
 Once the HVAC spaces were defined, Revit’s heating and cooling load calculation tool was employed to determine:
@@ -92,6 +102,11 @@ With the calculated heating and cooling loads, the next step was designing the s
 
 - Revit’s duct sizing tool was used to size ducts using the friction method, setting friction losses to *0.4 Pa*.
 
+First Floor
+<img alt="alt_text" width="400px" src="images/IMG_20250401_160717.jpg" />
+
+Second Floor
+<img alt="alt_text" width="400px" src="images/IMG_20250401_161033.jpg" />
 
 ### 5. Primary Supply Air System Design
 
@@ -101,6 +116,11 @@ With the calculated heating and cooling loads, the next step was designing the s
 
 - Revit’s duct sizing tool was employed again, but this time using the velocity method, setting airflow velocity to *5 m/s* to ensure proper air movement within the system.
 
+First Floor
+<img alt="alt_text" width="400px" src="images/IMG_20250401_160826.jpg" />
+
+Second Floor
+<img alt="alt_text" width="400px" src="images/IMG_20250401_160938.jpg" />
 
 ### 6. AC Unit Placement and System Integration
 
@@ -109,3 +129,6 @@ With the calculated heating and cooling loads, the next step was designing the s
 - The main supply air duct was routed to connect the AC unit with the primary supply air systems on both the ground and first floors.
 
 - This final step completed the VAV System, ensuring a well-integrated, efficient, and high-performance HVAC system.
+
+Full System 
+<img alt="alt_text" width="400px" src="images/IMG_20250401_161148.jpg" />
