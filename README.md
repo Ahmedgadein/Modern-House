@@ -60,13 +60,13 @@ Each enclosure within the building, including rooms, corridors, lounges, and sha
 
 First Floor
 
-<img alt="alt_text" width="400px" src="images/IMG_20250401_161440.jpg" />
+<img alt="alt_text" width="400px" src="images/First Floor Spaces 2D.jpg" />
 
 Second Floor
-<img alt="alt_text" width="400px" src="images/IMG_20250401_161244.jpg" />
+<img alt="alt_text" width="400px" src="images/Second Floor Spaces 2D.jpg" />
 
 3D
-<img alt="alt_text" width="400px" src="images/IMG_20250401_161618.jpg" />
+<img alt="alt_text" width="400px" src="images/HVAC Spaces 3D.jpg" />
 
 ### 2. Heating and Cooling Load Calculations
 
@@ -109,10 +109,10 @@ First Floor HVAC Spaces Schedule
 - Revit’s duct sizing tool was used to size ducts using the friction method, setting friction losses to *0.4 Pa*.
 
 First Floor
-<img alt="alt_text" width="400px" src="images/IMG_20250401_160717.jpg" />
+<img alt="alt_text" width="400px" src="images/First Floor Secondary.jpg" />
 
 Second Floor
-<img alt="alt_text" width="400px" src="images/IMG_20250401_161033.jpg" />
+<img alt="alt_text" width="400px" src="images/second floor secondary.jpg" />
 
 ### 5. Primary Supply Air System Design
 
@@ -123,10 +123,10 @@ Second Floor
 - Revit’s duct sizing tool was employed again, but this time using the velocity method, setting airflow velocity to *5 m/s* to ensure proper air movement within the system.
 
 First Floor
-<img alt="alt_text" width="400px" src="images/IMG_20250401_160826.jpg" />
+<img alt="alt_text" width="400px" src="images/First Floor Primary.jpg" />
 
 Second Floor
-<img alt="alt_text" width="400px" src="images/IMG_20250401_160938.jpg" />
+<img alt="alt_text" width="400px" src="images/second floor primary.jpg" />
 
 ### 6. AC Unit Placement and System Integration
 
@@ -137,4 +137,4 @@ Second Floor
 - This final step completed the VAV System, ensuring a well-integrated, efficient, and high-performance HVAC system.
 
 Full System 
-<img alt="alt_text" width="400px" src="images/IMG_20250401_161148.jpg" />
+<img alt="alt_text" width="400px" src="images/Full System 3D.jpg" />
