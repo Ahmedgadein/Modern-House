@@ -4,20 +4,17 @@ This project is a model of a two story residential modern house with the locatio
 The model is built with Revit Software, a highly regarded Building Information Modelling (BIM) with robust features. The model will be divided into three Revit files:
 - Architectural 
 - Mechanical 
-- Electrical 
 
 ## Scope of Modelling:
 #### HVAC
-- Fan Coil Units FCU
+- VAV Boxes
 - Ducts
-- Chilled Water Piping
+- Duct Sizing
+- Rooftop Unit Integration 
 
 #### Plumbing
-Drainage system (waste, soil, vent)
 
 #### Fire-Fighting 
-- Sprinklers 
-- Fire fighting network 
 
 
 ## Floor Plans
